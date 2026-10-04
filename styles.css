@@ -1,0 +1,9 @@
+/* Custom Scrollbar และความเรียบร้อยเพิ่มเติม */
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+/* เอฟเฟกต์ Smooth transition เมื่อสลับ Tab */
+form {
+    transition: opacity 0.2s ease-in-out;
+}
